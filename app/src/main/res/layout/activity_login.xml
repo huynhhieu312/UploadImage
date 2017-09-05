@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+    xmlns:tools = "http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height = "match_parent" android:paddingLeft= "5dp"
+    android:paddingRight = "5dp"
+    android:paddingTop = "5dp"
+    android:paddingBottom = "5dp"
+    tools:context="com.loginappfish.LoginActivity">
+
+    <TextView android:text = "Login" android:layout_width="wrap_content"
+    android:layout_height = "wrap_content"
+    android:id = "@+id/textview"
+    android:textSize = "35dp"
+    android:layout_alignParentTop = "true"
+    android:layout_centerHorizontal = "true" />
+
+    <TextView
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "Login Tại App Cá Tra"
+        android:id = "@+id/textView"
+        android:layout_below = "@+id/textview"
+        android:layout_centerHorizontal = "true"
+        android:textColor = "#ff7aff24"
+        android:textSize = "35dp" />
+
+    <EditText
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:id = "@+id/user"
+        android:hint = "Enter Name"
+        android:focusable = "true"
+        android:textColorHighlight = "#ff7eff15"
+        android:textColorHint = "#ffff25e6"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/abc"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/password"
+        android:layout_below="@+id/user"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/user"
+        android:layout_alignEnd="@+id/user"
+        android:textColorHint="#ffff299f"
+        android:hint="Password" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="login"
+        android:id="@+id/btnLogin"
+        android:layout_below="@+id/password"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:id="@+id/button2"
+        android:layout_alignBaseline="@+id/btnLogin"
+        android:layout_alignBottom="@+id/btnLogin"
+        android:layout_toEndOf="@+id/textview" />
+
+</RelativeLayout>

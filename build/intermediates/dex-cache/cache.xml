@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\6fab556941c9d457c7e6458459153a077c7b17a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_a24424bbb4aab4cd4352de3c8ed2a77175d7a180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\0df69978f05f996947a36dd6b9d26a5452e051d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_797b56fd21dc0a85e6116ea1dc0053e369b898a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.3\5b0002c5fb66867ca919be0fbd86de1cfaf76da7\httpmime-4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\httpmime-4.3_eb44272a7c0158b95ef6a4618825e824b85c7b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\7e91bc0a8cf62d6b16a0cec1ddeea929aa051d25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_2879fb4a468e277ce1279d7c89ae5cf79ad1e7ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5.1_e7fa8ca911c9b9adab58952d475c51dde75f540f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\02ada9ecceb92cb47dd1c822a83b962a9ca2f02a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_807d55cd18754de8136e89f5f74034cc64a21ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\03905ca53360606adeafae7d5925ed64b239c1c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_acba82536c009655750cdccdc766be5d98348c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\767e316822d4342d71df04b94925541f083aad89\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_2826fe6f733939b2c377858da915bc74686e35f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\8133cb31fe67915843bd6cc9106516a2560c4ac9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_364e7ab2482eee74f358cbfc79d041d45c0dfe1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_f31718034cc8a8e93ba94bec31c8e7b29ecd68d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\be1da5b78314f4fa5bae715ae474499defaae4ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_369207f523d9a51775e7fa1f18bd994f5f322f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_8b91155dc8449308f124f68e93038814b9cff493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\244ddd3cbc179d9d4c2f36224abd43e6ae7a64f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_d072fc81e9895b229cc905592b4ff86696c0f0a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.3\baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\baseLibrary-2.3.3_cc3afaf91424e734a49c56928e36b4d96c0d272b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\42ef274db83c797a234db454645cf6175fe8cc6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_07b765308d89ce8b457135acd1b9b1340fd8be28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9a05468a696469247a97401378cee0526b13fdc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\7eb5ac4eefbc2e124cc1b3af19bba7e3ea5455dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_4c9b86277bc4d5bef6e1ffd0f93ef93019f5f953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\dc1b7cbb4af7bb9a36d129c98dc8a0657adfcd2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_b0af573c5ab48575d66320dfa3f3a76cd1f95d5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIEU\.android\build-cache\48d1023dd4242fc2b3ed6a6946f8d169e3d5ab9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\HttpGetToServer-master\HttpGetToServer-master\app\build\intermediates\pre-dexed\debug\classes_eb38d91f8f745b2261377fb47e059d6d806087a2.jar" />
+    </item>
+
+</items>

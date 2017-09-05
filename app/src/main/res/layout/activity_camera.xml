@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.loginappfish.CameraActivity">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#e8ecfa"
+        android:baselineAligned="false"
+        android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <!-- Capture picture button -->
+
+        <Button
+            android:id="@+id/btnCapturePicture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:background="#277bec"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Capture Image"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:gravity="center_horizontal"
+            android:text="(or)"
+            android:textColor="#4e5572" />
+
+        <!-- Record video button -->
+
+        <Button
+            android:id="@+id/btnRecordVideo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#277bec"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Record Video"
+            android:textColor="#fff" />
+     </LinearLayout>
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>
